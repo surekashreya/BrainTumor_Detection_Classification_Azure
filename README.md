@@ -8,4 +8,8 @@ A brain tumor is an abnormal growth of tissue in the brain or central spine that
 #### The importance of the subject
 Early detection and classification of brain tumors is an important research domain in the field of medical imaging and accordingly helps in selecting the most convenient treatment method to save patients life therefore.
 
+### Pre-requisite 
+Azure Account 
+Nodejs 
+
 
