@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar {
+    background-color: #dddddd;
+    padding: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .navbar-title {
+    color: black;
+    font-size: 34px;
+    font-weight: bold;
+  }
+
+  .button-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+  }
+  
+  .custom-button {
+    background-color: #a72727;
+    color: #ffffff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    margin: 40px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .custom-button:hover {
+    background-color: #f53f3f;
+  }
+
+  .image-container {
+    width: 400px; /* Adjust the width as per your desired fixed size */
+    height: 300px; /* Adjust the height as per your desired fixed size */
+  }
+  
+  .uploaded-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* Maintain the aspect ratio and fill the entire container */
+  }
+  
+  
